@@ -1,0 +1,108 @@
+body {
+
+  padding: 0;
+  margin: 0;
+  background-color: #790252;
+
+
+}
+
+.navbar {
+  padding-bottom: 2rem;
+}
+
+.navbar-brand {
+  font-family: "Cursive";
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+
+
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: white;
+}
+.image-row {
+    position: relative;
+    top: 30px;
+    justify-content: center;
+    padding-bottom: 150px;
+    font-family: sans-serif;
+
+}
+
+.para {
+  position: absolute;
+  top: 100px;
+  left: 60px;
+}
+
+.title-image {
+  width: 80%;
+  height: 700px;
+}
+.button-class {
+  position: absolute;
+  top: 300px;
+  left: 60px;
+}
+
+.btn {
+  margin: 5px 3px 5px 0;
+}
+
+hr {
+  width: 20%;
+  text-align: left;
+  margin-left: 0;
+}
+.container-2 {
+  height: 500px;
+  background-color: #fff;
+}
+
+.connected-devices{
+  width: 150px
+}
+
+.info {
+  width: 150px
+}
+
+.data {
+  width: 150px
+}
+
+
+/* features */
+.feature-title {
+  font-weight: 800;
+  font-size: 1.3rem;
+  padding-top: 10px;
+}
+
+.col-lg-4 {
+    padding: 4.5%;
+
+}
+
+/* footer */
+#footer {
+  height: 150px;
+  background-color: #E80F88;
+  display: flex;
+  justify-content: center;
+
+}
+
+.icu {
+margin: 30px 10px;
+}
